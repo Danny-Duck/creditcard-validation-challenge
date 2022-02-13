@@ -1,0 +1,19 @@
+{
+  "name": "credit_challenge",
+  "version": "1.0.0",
+  "main": "src/credit_challenge.js",
+  "files": [
+    "*.js"
+  ],
+  "type": "module",
+  "module": "commonjs",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.2",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1"
+  }
+}
